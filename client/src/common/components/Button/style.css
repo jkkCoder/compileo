@@ -1,0 +1,11 @@
+.form-group button {
+    width: 100%;
+    padding: 13px;
+    background-color: #4CAF50;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 10px;
+    font-size: 17px;
+  }
